@@ -5,7 +5,7 @@
 }
 
 .standardSidebarView-3F1I7i {
-  background-image: url(https://i.imgur.com/dl5utiy.jpg);
+  background-image: url(https://i.imgur.com/Kr2RGsX.jpg);
   background-size: cover;
 }
 
@@ -554,7 +554,7 @@
 }
 
 .grabber-3mFHz2 {
-  background-image: url("https://i.imgur.com/dbcfHLv.png");
+  background-image: url("https://i.imgur.com/Kr2RGsX.jpg");
   border: none;
   box-shadow: none;
   background-size: cover;
@@ -1898,7 +1898,7 @@
   box-shadow: none;
   border-radius: 25px;
   background-size: cover;
-  background: url(https://i.imgur.com/UA3dpJE.jpg) 30%/cover;
+  background: url(https://i.imgur.com/Kr2RGsX.jpg) 30%/cover;
   ;
 }
 
@@ -1942,7 +1942,7 @@
 
 .root-SR8cQa {
   border-radius: 12px;
-  background: url(https://i.imgur.com/zT5Wq96.jpg) 35%/cover;
+  background: url(https://i.imgur.com/Kr2RGsX.jpg) 35%/cover;
 }
 
 .theme-dark .body-3iLsc4,
@@ -2487,7 +2487,7 @@
 }
 
 .theme-dark .ctaBar-2UsjF2{
-    background-image: url(https://i.pinimg.com/originals/8c/86/ba/8c86ba058fc14cf1de0dc899f8dab32c.jpg);
+    background-image: url(https://i.imgur.com/Kr2RGsX.jpg);
 }
 
 .ctaBar-2UsjF2{
@@ -2538,7 +2538,7 @@ svg.homeIcon-FuNwkv{
     color:transparent;
 }
 .homeIcon-FuNwkv{
-    background-image: url("https://i.imgur.com/1557zBq.png");
+    background-image: url("https://i.imgur.com/Kr2RGsX.jpg");
     background-size: cover;
     background-position: center;
 }
